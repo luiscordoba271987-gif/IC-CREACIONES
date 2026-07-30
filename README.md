@@ -278,6 +278,6 @@
       alert(`¡Gracias, ${name}! Hemos recibido tu solicitud. Te contactaremos pronto para afinar los detalles de tu bordado.`);
       this.reset();
     });
-  </script>
+  </script><
 </body>
 </html>
