@@ -273,7 +273,7 @@
   <!-- Lógica JavaScript -->
   <script>
     document.getElementById('contactForm').addEventListener('submit', function(e) {
-      e.preventDefault(iccreaciones05@gmail.com);
+      e.preventDefault();
       const name = document.getElementById('name').value;
       alert(`¡Gracias, ${name}! Hemos recibido tu solicitud. Te contactaremos pronto para afinar los detalles de tu bordado.`);
       this.reset();
