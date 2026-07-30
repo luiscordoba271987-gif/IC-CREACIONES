@@ -197,7 +197,7 @@
   <!-- Hero Section -->
   <section class="hero">
     <h1>Bordados Únicos & Personalizados</h1>
-    <p>Transformamos tus ideas e ilustraciones en piezas de arte textil hechas a mano con dedicación y detalle.</p>
+    <p>Transformamos tus ideas e ilustraciones en piezas bordadas con dedicación y detalle.</p>
     <a href="#pedidos" class="btn-primary">Solicitar Cotización</a>
   </section>
 
@@ -267,13 +267,13 @@
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2026 Hilos & Puntadas. Todos los derechos reservados.</p>
+    <p>&copy; 2026 IC Creaciones. Todos los derechos reservados.</p>
   </footer>
 
   <!-- Lógica JavaScript -->
   <script>
     document.getElementById('contactForm').addEventListener('submit', function(e) {
-      e.preventDefault();
+      e.preventDefault(iccreaciones05@gmail.com);
       const name = document.getElementById('name').value;
       alert(`¡Gracias, ${name}! Hemos recibido tu solicitud. Te contactaremos pronto para afinar los detalles de tu bordado.`);
       this.reset();
